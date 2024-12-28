@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FD5D14;
+    --primary: red;
     --secondary: #FDBE33;
     --light: #F4F6F8;
-    --dark: #040F28;
+    --dark: rgb(10, 94, 10);
 }
 
 .pt-6 {
@@ -107,7 +107,7 @@
     padding: 35px 15px;
     font-size: 18px;
     text-transform: uppercase;
-    color: var(--light);
+    color: black;
     outline: none;
     transition: .5s;
 }
