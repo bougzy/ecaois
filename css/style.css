@@ -3,7 +3,7 @@
     --primary: red;
     --secondary: #FDBE33;
     --light: #F4F6F8;
-    --dark: rgb(10, 94, 10);
+    --dark: rgb(12, 14, 12);
 }
 
 .pt-6 {
@@ -257,6 +257,14 @@
         left: 50%;
         background: var(--primary)
     }
+}
+
+p{
+    color: black;
+}
+
+h4{
+    color: red;
 }
 
 .footer-shape::before {
